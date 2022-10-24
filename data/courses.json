@@ -1,0 +1,65 @@
+[
+    {
+        "id":"s1",
+        "name":"Microsoft PowerPoint",
+        "price":"950",
+        "category":"Office Tool",
+        "category_id":"c1"
+    },
+    {
+        "id":"s2",
+        "name":"Microsoft Word",
+        "price":"950",
+        "category":"Office Tool",
+        "category_id":"c1"
+    },
+    {
+        "id":"s3",
+        "name":"Microsoft Office Combo, Word Excel PowerPoint",
+        "price":"2050",
+        "category":"Office Tool",
+        "category_id":"c1"
+    },
+    {
+        "id":"s4",
+        "name":"Microsoft Excel",
+        "price":"950",
+        "category":"Office Tool",
+        "category_id":"c1"
+    },
+    {
+        "id":"s5",
+        "name":"Adobe Illustrator",
+        "price":"1490",
+        "category":"Graphics Design",
+        "category_id":"c2"
+    },
+    {
+        "id":"s6",
+        "name":"Graphic Designing with PhotoShop",
+        "price":"1199",
+        "category":"Graphics Design",
+        "category_id":"c2"
+    },
+    {
+        "id":"s7",
+        "name":"Mean Stack Development",
+        "price":"20000",
+        "category":"Web Development",
+        "category_id":"c3"
+    },
+    {
+        "id":"s8",
+        "name":"php with Laravel Development",
+        "price":"30000",
+        "category":"Web Development",
+        "category_id":"c3"
+    },
+    {
+        "id":"s9",
+        "name":"Backend with Node.js and Express.js",
+        "price":"70000",
+        "category":"Web Development",
+        "category_id":"c3"
+    }
+]

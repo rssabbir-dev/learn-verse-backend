@@ -4,62 +4,72 @@
         "name":"Microsoft PowerPoint",
         "price":"950",
         "category":"Office Tool",
-        "category_id":"c1"
+        "category_id":"c1",
+        "img":"https://raw.githubusercontent.com/rssabbir-dev/resource/master/learn-varse-resource/mirosoft-powerpoint.png"
+        
     },
     {
         "id":"s2",
         "name":"Microsoft Word",
         "price":"950",
         "category":"Office Tool",
-        "category_id":"c1"
+        "category_id":"c1",
+        "img":"https://raw.githubusercontent.com/rssabbir-dev/resource/master/learn-varse-resource/microsoft-word.png"
     },
     {
         "id":"s3",
         "name":"Microsoft Office Combo, Word Excel PowerPoint",
         "price":"2050",
         "category":"Office Tool",
-        "category_id":"c1"
+        "category_id":"c1",
+        "img":"https://raw.githubusercontent.com/rssabbir-dev/resource/master/learn-varse-resource/microsoft-office.png"
     },
     {
         "id":"s4",
         "name":"Microsoft Excel",
         "price":"950",
         "category":"Office Tool",
-        "category_id":"c1"
+        "category_id":"c1",
+        "img":"https://raw.githubusercontent.com/rssabbir-dev/resource/master/learn-varse-resource/mirosoft-excel.png"
     },
     {
         "id":"s5",
         "name":"Adobe Illustrator",
         "price":"1490",
         "category":"Graphics Design",
-        "category_id":"c2"
+        "category_id":"c2",
+        "img":"https://raw.githubusercontent.com/rssabbir-dev/resource/master/learn-varse-resource/illestator.png"
     },
     {
         "id":"s6",
         "name":"Graphic Designing with PhotoShop",
         "price":"1199",
         "category":"Graphics Design",
-        "category_id":"c2"
+        "category_id":"c2",
+        "img":"https://raw.githubusercontent.com/rssabbir-dev/resource/master/learn-varse-resource/photoshop.png"
     },
     {
         "id":"s7",
-        "name":"Mean Stack Development",
+        "name":"Mern Stack Development",
         "price":"20000",
         "category":"Web Development",
-        "category_id":"c3"
+        "category_id":"c3",
+        "img":"https://raw.githubusercontent.com/rssabbir-dev/resource/master/learn-varse-resource/mern-stack.png"
     },
     {
         "id":"s8",
         "name":"php with Laravel Development",
         "price":"30000",
         "category":"Web Development",
-        "category_id":"c3"
+        "category_id":"c3",
+        "img":"https://raw.githubusercontent.com/rssabbir-dev/resource/master/learn-varse-resource/Laravel-2.jpg"
     },
     {
         "id":"s9",
         "name":"Backend with Node.js and Express.js",
         "price":"70000",
         "category":"Web Development",
-        "category_id":"c3"
+        "category_id":"c3",
+        "img":"https://raw.githubusercontent.com/rssabbir-dev/resource/master/learn-varse-resource/node-express.png"
     }
 ]

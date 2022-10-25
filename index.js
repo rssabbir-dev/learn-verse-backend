@@ -12,9 +12,22 @@ app.get('/', (req, res) => {
 	res.send('learnVerse Server is running');
 });
 
-app.get('/courses', (req, res) => {
-	res.send(courses);
-});
+// app.get('/courses', (req, res) => {
+// 	res.send(courses);
+// });
+app.get('/courses/:id', (req, res) => {
+    const id = req.params.id;
+    if (id === 'all') {
+        res.send(courses);
+    }
+    else {
+        const selectedCategory = courses.filter(
+			(course) => course.category_id === id
+		);
+        res.send(selectedCategory);
+    }
+    
+})
 app.get('/category', (req, res) => {
     res.send(category)
 })

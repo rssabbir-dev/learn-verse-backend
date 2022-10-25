@@ -1,15 +1,18 @@
 [
     {
         "category":"Office Tool",
-        "category_id":"c1"
+        "category_id":"c1",
+        "category_img":"https://raw.githubusercontent.com/rssabbir-dev/resource/master/learn-varse-resource/office-tool.png"
         
     },
     {
         "category":"Graphics Design",
-        "category_id":"c2"
+        "category_id":"c2",
+        "category_img":"https://raw.githubusercontent.com/rssabbir-dev/resource/master/learn-varse-resource/graphics-desgin.png"
     },
     {
         "category":"Web Development",
-        "category_id":"c3"
+        "category_id":"c3",
+        "category_img":"https://raw.githubusercontent.com/rssabbir-dev/resource/master/learn-varse-resource/web-development.png"
     }
 ]

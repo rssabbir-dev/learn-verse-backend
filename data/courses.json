@@ -5,7 +5,21 @@
         "price":"950",
         "category":"Office Tool",
         "category_id":"c1",
-        "img":"https://raw.githubusercontent.com/rssabbir-dev/resource/master/learn-varse-resource/mirosoft-powerpoint.png"
+        "img":"https://raw.githubusercontent.com/rssabbir-dev/resource/master/learn-varse-resource/mirosoft-powerpoint.png",
+        "course_details":{
+            "sort_description":"Learn to make visually appealing slides to perfect all of your upcoming meetings using Microsoft PowerPoint. This course will be your beginner's handbook for learning the basic to advanced concepts of MS PowerPoint.",
+            "enrolled":"3908",
+            "hour_require":"8",
+            "total_video":"65",
+            "total_quiz":"200"
+        },
+        "topics_cover":[
+            "Creating attractive slides and delivering your Microsoft PowerPoint presentation with confidence in school-college, university, and corporate life.",
+            "Data Visualization in MS PowerPoint.",
+            "All the hacks regarding Graphic Design and Animation in Microsoft PowerPoint.",
+            "From the very basics of creating shapes to 3D modeling in MS PowerPoint."
+        ],
+        "instructor":"Sabbir Hossain"
         
     },
     {
@@ -14,7 +28,20 @@
         "price":"950",
         "category":"Office Tool",
         "category_id":"c1",
-        "img":"https://raw.githubusercontent.com/rssabbir-dev/resource/master/learn-varse-resource/microsoft-word.png"
+        "img":"https://raw.githubusercontent.com/rssabbir-dev/resource/master/learn-varse-resource/microsoft-word.png",
+        "course_details":{
+            "sort_description":"Learn to compose and stylize any document, visualize data using charts and graphs, make your CV, and many more using MS Word. Enroll today and learn all tips and tricks of Microsoft Word.",
+            "enrolled":"2908",
+            "hour_require":"3",
+            "total_video":"30",
+            "total_quiz":"100"
+        },
+        "topics_cover":[
+            "Preparing and formatting different types of documents including academic papers, assignments and official reports using Microsoft OfficeHow to use different tools and features of MS Word including data visualization using tables and charts, headings, sub-headings, tables, spell checker, table of contents, find and replace, header & footer, etc.",
+            "Nitty-gritty tricks of MS Word and easy-to-use shortcut keys to manage your time more efficiently.",
+            "How to use shapes, smart art, and images in a document to make it more elegant."
+        ],
+        "instructor":"Rahat Hossain"
     },
     {
         "id":"s3",
@@ -22,7 +49,22 @@
         "price":"2050",
         "category":"Office Tool",
         "category_id":"c1",
-        "img":"https://raw.githubusercontent.com/rssabbir-dev/resource/master/learn-varse-resource/microsoft-office.png"
+        "img":"https://raw.githubusercontent.com/rssabbir-dev/resource/master/learn-varse-resource/microsoft-office.png",
+        "course_details":{
+            "sort_description":"Learn the three most important Microsoft Office software with advanced tips and tricks. Proficiency in MS Office, Excel and PowerPoint will take you to the next level.",
+            "enrolled":"4,908",
+            "hour_require":"35",
+            "total_video":"140",
+            "total_quiz":"300"
+        },
+        "topics_cover":[
+            "Effective shortcuts of the three important software of Microsoft Office (Microsoft Excel, Microsoft Word, and Microsoft PowerPoint) to increase productivity",
+            "How to make interesting slides for any presentation for both students and professionals",
+            "Ways to create 3D models from basic shapes with Microsoft PowerPoint",
+            "3 of the most used MS Office softwares from basic to advanced level",
+            "Techniques for writing academic papers, assignments, CV and resume for professional life, making presentation slides or creating any sort of documents using Microsoft Office softwares."
+        ],
+        "instructor":"Saad Hossain"
     },
     {
         "id":"s4",
@@ -30,7 +72,23 @@
         "price":"950",
         "category":"Office Tool",
         "category_id":"c1",
-        "img":"https://raw.githubusercontent.com/rssabbir-dev/resource/master/learn-varse-resource/mirosoft-excel.png"
+        "img":"https://raw.githubusercontent.com/rssabbir-dev/resource/master/learn-varse-resource/mirosoft-excel.png",
+        "course_details":{
+            "sort_description":"Beginner to advanced Microsoft Excel tutorials. Navigate Excel like a pro, perform basic to complex calculations using Excel functions, formulas, tips & tricks. Use MS Excel for everything from data entry to professional data analysis. Also learn: advanced formulas, vlookups, pivot tables, conditional formatting, charts, graphs, etc.",
+            "enrolled":"20,908",
+            "hour_require":"6",
+            "total_video":"80",
+            "total_quiz":"300"
+        },
+        "topics_cover":[
+            "Completing complex calculations quickly with Microsoft Excel",
+            "Analyzing worksheet data and applying Microsoft Excel formulas, functions, and tips & tricks",
+            "From basic data entry to advanced data analysis learning from an expert",
+            "Using various functions of Microsoft Excel such as worksheet data analysis, advanced Excel formulas, data filters, chart creation, and many more",
+            "The strategies to increase productivity in office work or studies by using advanced Excel functions",
+            "Data management and data storage with Microsoft Excel tutorials, quizzes, and practice workbooks"
+        ],
+        "instructor":"Rafi Hossain"
     },
     {
         "id":"s5",
@@ -38,7 +96,20 @@
         "price":"1490",
         "category":"Graphics Design",
         "category_id":"c2",
-        "img":"https://raw.githubusercontent.com/rssabbir-dev/resource/master/learn-varse-resource/illestator.png"
+        "img":"https://raw.githubusercontent.com/rssabbir-dev/resource/master/learn-varse-resource/illestator.png",
+        "course_details":{
+            "sort_description":"Learn Adobe Illustrator tools and shortcuts to create amazing visual content. Strengthen your graphic skills with illustration tutorials made by an expert designer.",
+            "enrolled":"908",
+            "hour_require":"15",
+            "total_video":"140",
+            "total_quiz":"300"
+        },
+        "topics_cover":[
+            "From basic to advanced functions, tools and features of Adobe Illustrator.",
+            "How to master and practically use graphic designing skills.",
+            "How to create ideal graphic content for digital marketing using Adobe Illustrator."
+        ],
+        "instructor":"Saad Hossain"
     },
     {
         "id":"s6",
@@ -46,7 +117,20 @@
         "price":"1199",
         "category":"Graphics Design",
         "category_id":"c2",
-        "img":"https://raw.githubusercontent.com/rssabbir-dev/resource/master/learn-varse-resource/photoshop.png"
+        "img":"https://raw.githubusercontent.com/rssabbir-dev/resource/master/learn-varse-resource/photoshop.png",
+        "course_details":{
+            "sort_description":"Learn Adobe Illustrator tools and shortcuts to create amazing visual content. Strengthen your graphic skills with illustration tutorials made by an expert designer.",
+            "enrolled":"908",
+            "hour_require":"15",
+            "total_video":"140",
+            "total_quiz":"300"
+        },
+        "topics_cover":[
+            "From basic to advanced functions, tools and features of Adobe Illustrator.",
+            "How to master and practically use graphic designing skills.",
+            "How to create ideal graphic content for digital marketing using Adobe Illustrator."
+        ],
+        "instructor":"Saad Hossain"
     },
     {
         "id":"s7",
@@ -54,7 +138,20 @@
         "price":"20000",
         "category":"Web Development",
         "category_id":"c3",
-        "img":"https://raw.githubusercontent.com/rssabbir-dev/resource/master/learn-varse-resource/mern-stack.png"
+        "img":"https://raw.githubusercontent.com/rssabbir-dev/resource/master/learn-varse-resource/mern-stack.png",
+        "course_details":{
+            "sort_description":"Learn Adobe Illustrator tools and shortcuts to create amazing visual content. Strengthen your graphic skills with illustration tutorials made by an expert designer.",
+            "enrolled":"908",
+            "hour_require":"15",
+            "total_video":"140",
+            "total_quiz":"300"
+        },
+        "topics_cover":[
+            "From basic to advanced functions, tools and features of Adobe Illustrator.",
+            "How to master and practically use graphic designing skills.",
+            "How to create ideal graphic content for digital marketing using Adobe Illustrator."
+        ],
+        "instructor":"Saad Hossain"
     },
     {
         "id":"s8",
@@ -62,7 +159,20 @@
         "price":"30000",
         "category":"Web Development",
         "category_id":"c3",
-        "img":"https://raw.githubusercontent.com/rssabbir-dev/resource/master/learn-varse-resource/Laravel-2.jpg"
+        "img":"https://raw.githubusercontent.com/rssabbir-dev/resource/master/learn-varse-resource/Laravel-2.jpg",
+        "course_details":{
+            "sort_description":"Learn Adobe Illustrator tools and shortcuts to create amazing visual content. Strengthen your graphic skills with illustration tutorials made by an expert designer.",
+            "enrolled":"908",
+            "hour_require":"15",
+            "total_video":"140",
+            "total_quiz":"300"
+        },
+        "topics_cover":[
+            "From basic to advanced functions, tools and features of Adobe Illustrator.",
+            "How to master and practically use graphic designing skills.",
+            "How to create ideal graphic content for digital marketing using Adobe Illustrator."
+        ],
+        "instructor":"Saad Hossain"
     },
     {
         "id":"s9",
@@ -70,6 +180,19 @@
         "price":"70000",
         "category":"Web Development",
         "category_id":"c3",
-        "img":"https://raw.githubusercontent.com/rssabbir-dev/resource/master/learn-varse-resource/node-express.png"
+        "img":"https://raw.githubusercontent.com/rssabbir-dev/resource/master/learn-varse-resource/node-express.png",
+        "course_details":{
+            "sort_description":"Learn Adobe Illustrator tools and shortcuts to create amazing visual content. Strengthen your graphic skills with illustration tutorials made by an expert designer.",
+            "enrolled":"908",
+            "hour_require":"15",
+            "total_video":"140",
+            "total_quiz":"300"
+        },
+        "topics_cover":[
+            "From basic to advanced functions, tools and features of Adobe Illustrator.",
+            "How to master and practically use graphic designing skills.",
+            "How to create ideal graphic content for digital marketing using Adobe Illustrator."
+        ],
+        "instructor":"Saad Hossain"
     }
 ]

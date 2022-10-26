@@ -19,7 +19,12 @@
             "All the hacks regarding Graphic Design and Animation in Microsoft PowerPoint.",
             "From the very basics of creating shapes to 3D modeling in MS PowerPoint."
         ],
-        "instructor":"Sabbir Hossain"
+        "instructor_info":{
+            "instructor_name":"Tarek Ahammed",
+            "instructor_img":"https://raw.githubusercontent.com/rssabbir-dev/resource/master/learn-varse-resource/instructor3.jpg",
+            "graduate_from":"University Of Cumilla"
+            
+        }
         
     },
     {
@@ -41,7 +46,12 @@
             "Nitty-gritty tricks of MS Word and easy-to-use shortcut keys to manage your time more efficiently.",
             "How to use shapes, smart art, and images in a document to make it more elegant."
         ],
-        "instructor":"Rahat Hossain"
+        "instructor_info":{
+            "instructor_name":"Forhad Mia",
+            "instructor_img":"https://raw.githubusercontent.com/rssabbir-dev/resource/master/learn-varse-resource/instructor3.jpg",
+            "graduate_from":"University Of Cumilla"
+            
+        }
     },
     {
         "id":"s3",
@@ -64,7 +74,12 @@
             "3 of the most used MS Office softwares from basic to advanced level",
             "Techniques for writing academic papers, assignments, CV and resume for professional life, making presentation slides or creating any sort of documents using Microsoft Office softwares."
         ],
-        "instructor":"Saad Hossain"
+        "instructor_info":{
+            "instructor_name":"SA Sujon",
+            "instructor_img":"https://raw.githubusercontent.com/rssabbir-dev/resource/master/learn-varse-resource/instructor1.jpg",
+            "graduate_from":"University Of Cumilla"
+            
+        }
     },
     {
         "id":"s4",
@@ -88,7 +103,12 @@
             "The strategies to increase productivity in office work or studies by using advanced Excel functions",
             "Data management and data storage with Microsoft Excel tutorials, quizzes, and practice workbooks"
         ],
-        "instructor":"Rafi Hossain"
+        "instructor_info":{
+            "instructor_name":"Hussain Saad",
+            "instructor_img":"https://raw.githubusercontent.com/rssabbir-dev/resource/master/learn-varse-resource/instructor1.jpg",
+            "graduate_from":"University Of Cumilla"
+            
+        }
     },
     {
         "id":"s5",
@@ -109,7 +129,12 @@
             "How to master and practically use graphic designing skills.",
             "How to create ideal graphic content for digital marketing using Adobe Illustrator."
         ],
-        "instructor":"Saad Hossain"
+        "instructor_info":{
+            "instructor_name":"Rakib Hasan",
+            "instructor_img":"https://raw.githubusercontent.com/rssabbir-dev/resource/master/learn-varse-resource/instructor1.jpg",
+            "graduate_from":"University Of Cumilla"
+            
+        }
     },
     {
         "id":"s6",
@@ -119,18 +144,23 @@
         "category_id":"c2",
         "img":"https://raw.githubusercontent.com/rssabbir-dev/resource/master/learn-varse-resource/photoshop.png",
         "course_details":{
-            "sort_description":"Learn Adobe Illustrator tools and shortcuts to create amazing visual content. Strengthen your graphic skills with illustration tutorials made by an expert designer.",
+            "sort_description":"Learn graphic designing with Adobe Photoshop. Enrol today and learn how to design logo, ads, social media content and build a career in graphic designing..",
             "enrolled":"908",
             "hour_require":"15",
             "total_video":"140",
             "total_quiz":"300"
         },
         "topics_cover":[
-            "From basic to advanced functions, tools and features of Adobe Illustrator.",
-            "How to master and practically use graphic designing skills.",
-            "How to create ideal graphic content for digital marketing using Adobe Illustrator."
+            "Using tools and features of Adobe Photoshop in practical graphic design tasks like logo design, ad design, and corporate identity design etc.",
+            "Designing content for digital and print media, such as social media posters, logos, banners, and flyers",
+            "Ways to earn money through freelancing or project-based graphic design work"
         ],
-        "instructor":"Saad Hossain"
+        "instructor_info":{
+            "instructor_name":"Rakib Hasan",
+            "instructor_img":"https://raw.githubusercontent.com/rssabbir-dev/resource/master/learn-varse-resource/instructor1.jpg",
+            "graduate_from":"University Of Cumilla"
+            
+        }
     },
     {
         "id":"s7",
@@ -140,39 +170,49 @@
         "category_id":"c3",
         "img":"https://raw.githubusercontent.com/rssabbir-dev/resource/master/learn-varse-resource/mern-stack.png",
         "course_details":{
-            "sort_description":"Learn Adobe Illustrator tools and shortcuts to create amazing visual content. Strengthen your graphic skills with illustration tutorials made by an expert designer.",
-            "enrolled":"908",
-            "hour_require":"15",
-            "total_video":"140",
+            "sort_description":"Live hands-on experience with real life projects, live masterclasses from industry experts, job market and freelancing guidelines, job/internship opportunities – all together now live, with the masters.",
+            "enrolled":"9000",
+            "hour_require":"140",
+            "total_video":"775",
             "total_quiz":"300"
         },
         "topics_cover":[
-            "From basic to advanced functions, tools and features of Adobe Illustrator.",
-            "How to master and practically use graphic designing skills.",
-            "How to create ideal graphic content for digital marketing using Adobe Illustrator."
+            "Total 18 projects will be done in the course. The projects that will be done are:",
+            "Job/Internship Opportunities",
+            "Progress tracking and certificates"
         ],
-        "instructor":"Saad Hossain"
+        "instructor_info":{
+            "instructor_name":"Saad Hossain",
+            "instructor_img":"https://raw.githubusercontent.com/rssabbir-dev/resource/master/learn-varse-resource/instructor3.jpg",
+            "graduate_from":"University Of Rajshahi"
+            
+        }
     },
     {
         "id":"s8",
-        "name":"php with Laravel Development",
+        "name":"PHP with Laravel Development",
         "price":"30000",
         "category":"Web Development",
         "category_id":"c3",
         "img":"https://raw.githubusercontent.com/rssabbir-dev/resource/master/learn-varse-resource/Laravel-2.jpg",
         "course_details":{
-            "sort_description":"Learn Adobe Illustrator tools and shortcuts to create amazing visual content. Strengthen your graphic skills with illustration tutorials made by an expert designer.",
-            "enrolled":"908",
-            "hour_require":"15",
-            "total_video":"140",
+            "sort_description":"Learn to master Laravel to make advanced applications like the real CMS app we build on this course",
+            "enrolled":"608",
+            "hour_require":"90",
+            "total_video":"600",
             "total_quiz":"300"
         },
         "topics_cover":[
-            "From basic to advanced functions, tools and features of Adobe Illustrator.",
-            "How to master and practically use graphic designing skills.",
-            "How to create ideal graphic content for digital marketing using Adobe Illustrator."
+            "Learn to build applications using laravel",
+            "You will learn how to create and use Controllers and what they are",
+            "How to use Laravel Tinker - Command line program to play around with Laravel without persisting data"
         ],
-        "instructor":"Saad Hossain"
+        "instructor_info":{
+            "instructor_name":"Mohammad Ali",
+            "instructor_img":"https://raw.githubusercontent.com/rssabbir-dev/resource/master/learn-varse-resource/instructor2.jpg",
+            "graduate_from":"University of Chittagong"
+            
+        }
     },
     {
         "id":"s9",
@@ -182,17 +222,24 @@
         "category_id":"c3",
         "img":"https://raw.githubusercontent.com/rssabbir-dev/resource/master/learn-varse-resource/node-express.png",
         "course_details":{
-            "sort_description":"Learn Adobe Illustrator tools and shortcuts to create amazing visual content. Strengthen your graphic skills with illustration tutorials made by an expert designer.",
-            "enrolled":"908",
-            "hour_require":"15",
-            "total_video":"140",
-            "total_quiz":"300"
+            "sort_description":"NodeJS and React are javascript languages. Node.js is way to get into Full Stack web development. Node JS and Express JS.",
+            "enrolled":"3008",
+            "hour_require":"9",
+            "total_video":"240",
+            "total_quiz":"100"
         },
         "topics_cover":[
-            "From basic to advanced functions, tools and features of Adobe Illustrator.",
-            "How to master and practically use graphic designing skills.",
-            "How to create ideal graphic content for digital marketing using Adobe Illustrator."
+            "Dive into Nodejs, learn rapidy growing web server technology, Nodejs & understand how NodeJS works with Node course!",
+            "Learn the key concepts of the NodeJS",
+            "Understand and use the Event Emitter for NodeJS and Express JS",
+            "Expand your fullstack development practice with NodeJS",
+            "You will learn the Node JS concepts and applications of this wildly useful JavaScript runtime."
         ],
-        "instructor":"Saad Hossain"
+        "instructor_info":{
+            "instructor_name":"Ali Ahammed",
+            "instructor_img":"https://raw.githubusercontent.com/rssabbir-dev/resource/master/learn-varse-resource/instructor1.jpg",
+            "graduate_from":"Dhaka University"
+            
+        }
     }
 ]

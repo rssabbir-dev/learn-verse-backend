@@ -8,6 +8,7 @@ app.use(cors());
 const courses = require('./data/courses.json');
 const category = require('./data/category.json')
 const blogs = require('./data/blogs.json');
+const faq = require('./data/faq.json')
 
 app.get('/', (req, res) => {
 	res.send('learnVerse Server is running');
@@ -41,6 +42,9 @@ app.get('/category', (req, res) => {
 
 app.get('/blogs', (req, res) => {
     res.send(blogs)
+})
+app.get('/faq', (req, res) => {
+    res.send(faq)
 })
 
 app.listen(port, () => {

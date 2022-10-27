@@ -1,4 +1,4 @@
-### LearnVerse Server OR API
+# LearnVerse Server OR API
 
 ## Get All Course Data with this api link
 - https://learn-varse-backend.vercel.app/courses/all
